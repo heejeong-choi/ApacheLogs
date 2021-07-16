@@ -1,6 +1,6 @@
 ### Apache Logs Parsing; 아파치로그 파싱하기
 
-#### <Description>
+#### ⚪Description
 1. 주어진 아파치 로그의 텍스트 파일을 csv 파일로 변환하기
 2. 로그 항목별로 주어진 문항에 따라 값 구하기
 
@@ -10,10 +10,10 @@
 👀👀 복잡한 로그속에서 특정 데이터만 뽑아와야 할 때, 정규 표현식을 사용해주면 매우 용이하다 :) 
 
   
-#### <Environment>
+#### ⚪Environment
   - OS: Window 10
   - JDK 11
   
-#### <Files>
+#### ⚪Files
   - src 폴더에 apache_logs 파일을 첨부해 두었습니다.
 
